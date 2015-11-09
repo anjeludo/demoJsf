@@ -1,1 +1,1 @@
-# Demo JSF, Srping Boot and Primefaces
+# Demo JSF, Spring Boot and Primefaces
